@@ -1,0 +1,10 @@
+html,body{
+    margin: 0;
+    height: 100%;
+}
+body{
+    background-image: radial-gradient(circle at 50% 50%, #cc54ff 0, #b346ff 25%, #9638ff 50%, #762bf6 75%, #5020ee 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
